@@ -50,6 +50,7 @@
     },
     "conflict": {
         "laminas/laminas-servicemanager": "<3.3",
+        "psr/container": ">= 2.0.0",
         "zendframework/zend-feed": "*"
     },
     "suggest": {
